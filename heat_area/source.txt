@@ -1,0 +1,6 @@
+python main.py --image images/parking_lot_1.png --data data/coordinates_1.yml --video videos/parking_lot_1.mp4 --start-frame 400
+python main.py --image images/parking_lot_3.png --data data/coordinates_1.yml --video videos/parking_lot_3.mp4 --start-frame 200
+python main.py --image images/cctv1.png --data data/coordinates_1.yml --video videos/outpycctv1.mp4 --start-frame 50
+python main.py --image images/cctv2.png --data data/coordinates_1.yml --video videos/outpycctv2.mp4 --start-frame 50
+python main.py --image images/cctv5.png --data data/coordinates_1.yml --video videos/outpycctv5.mp4 --start-frame 50
+python main.py --image images/cctv6.png --data data/coordinates_1.yml --video videos/outpycctv6.mp4 --start-frame 50
