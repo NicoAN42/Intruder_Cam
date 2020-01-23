@@ -1,6 +1,8 @@
 # Intruder_Cam
 
 ## Machine Learning Project
-### Alexander Agung S
-### Nathanael Geordie E.P
-### Nico Ardian N 
+
+### Team
+    1. Alexander Agung S
+    2. Nathanael Geordie E.P
+    3. Nico Ardian N 
